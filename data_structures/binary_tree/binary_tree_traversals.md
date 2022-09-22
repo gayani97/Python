@@ -109,3 +109,5 @@ The core idea is as follow.
 Implementation of pre-order and post-order traversal algorithms can be easily done by changing the order of pushing the child nodes into the stack.
 
 Reference: [LeetCode](https://github.com/azl397985856/leetcode/blob/master/thinkings/binary-tree-traversal.en.md)
+
+Gayani added new line
